@@ -1,5 +1,7 @@
 # flexbox, media-query, css-grid 개념 이해하기
 
+- <a href="doc/flexbox, mediq-query, css-grid.pptx">요약본 파일</a>
+
 ### flexbox
 
 - 우선순위 가장 높은 내용, 유연한 요소 배치방법으로 모바일, 데스크탑, 하이브리드앱 모두 사용함
@@ -24,4 +26,3 @@
 - media-query 및 css-grid의 template-areas, flexbox를 이용하여 3가지 크기의 반응형 레이아웃을 작성해봄
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout
 - <a href="https://kdkcom1234.github.io/flexbox-mediaquery-css-grid/">구현된 샘플</a>
-- <a href="doc/flexbox, mediq-query, css-grid.pptx">요약본 파일</a>
