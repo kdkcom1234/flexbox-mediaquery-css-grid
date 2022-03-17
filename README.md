@@ -7,12 +7,13 @@
 
 ### media query
 
-- css로 반응형 레이아웃 및 출력 장치별 특성을 제어할 때 사용
+- 출력 장치별 특성을 이용하여 css로 반응형 레이아웃을 제어할 때 사용
 - https://developer.mozilla.org/ko/docs/Learn/CSS/CSS_layout/Media_queries
 
 ### css grid
 
 - 2차원 공간의 요소 배치방법으로 row-column 및 layout-template 형태로 요소를 배치할 수 있게 함
+- fr(fragment)라고 하는 여분공간 배치방법을 사용할 수 있음
 - https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Grid_Layout/Basic_concepts_of_grid_layout
 - https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Grid_Layout/Grid_template_areas
 
@@ -20,7 +21,7 @@
 
 ### 반응형 레이아웃 예제
 
-- media-query 및 css-grid의 template-areas, flexbox를 이용하여 3가지 크기의 반응형 레이아웃
+- media-query 및 css-grid의 template-areas, flexbox를 이용하여 3가지 크기의 반응형 레이아웃을 작성해봄
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout
 - <a href="https://kdkcom1234.github.io/flexbox-mediaquery-css-grid/">구현된 샘플</a>
 - <a href="doc/flexbox, mediq-query, css-grid.pptx">요약본 파일</a>
