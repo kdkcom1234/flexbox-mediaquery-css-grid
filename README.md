@@ -12,7 +12,7 @@
 
 ### css grid
 
-- 2차원 공간의 요소 배치방법으로 row-column 및 layout-template 형태로 요소를 배치할 수 있게 함(ie에서 일부만 지원)
+- 2차원 공간의 요소 배치방법으로 row-column 및 layout-template 형태로 요소를 배치할 수 있게 함
 - https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Grid_Layout/Basic_concepts_of_grid_layout
 - https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Grid_Layout/Grid_template_areas
 
