@@ -16,11 +16,11 @@
 - https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Grid_Layout/Basic_concepts_of_grid_layout
 - https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Grid_Layout/Grid_template_areas
 
+---
+
 ### 반응형 레이아웃 예제
 
 - media-query 및 css-grid의 template-areas, flexbox를 이용하여 3가지 크기의 반응형 레이아웃
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout
-
----
-
-<a href="doc/flexbox, mediq-query, css-grid.pptx">요약본 파일</a>
+- <a href="https://kdkcom1234.github.io/flexbox-mediaquery-css-grid/">구현된 샘플</a>
+- <a href="doc/flexbox, mediq-query, css-grid.pptx">요약본 파일</a>
